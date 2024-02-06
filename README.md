@@ -27,7 +27,7 @@
 <!--Intro end-->
 
 <p align="center">
-  <img src="https://github.com/eloiroca/eloiroca/blob/main/resources/img/programming.gif?raw=true" width="200" alt="Right Side">
+  <img src="https://github.com/eloiroca/eloiroca/blob/main/resources/img/programming.gif?raw=true" width="300" alt="Right Side">
 </p>
 <br>
                                                                         
