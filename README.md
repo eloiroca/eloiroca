@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/eloiroca" target="_blank"><img alt="" src="https://raw.githubusercontent.com/eloiroca/eloiroca/d38a4cfb028c1415cfe611232ebbd95d6ac69d77/resources/img/helpme.svg" style="vertical-align:center" /></a>
 <a href="#" target="_blank"><img alt="" src="https://raw.githubusercontent.com/eloiroca/eloiroca/d38a4cfb028c1415cfe611232ebbd95d6ac69d77/resources/img/portafolio.svg" style="vertical-align:center" /></a>
-<a href="[https://linkedin.com/in/VishwaGauravIn](https://www.linkedin.com/in/eloi-r-a366a7a0/)" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="[https://linkedin.com/in/VishwaGauravIn](https://www.linkedin.com/in/eloi-r-a366a7a0/)" target="_blank"><img alt="" src="https://raw.githubusercontent.com/eloiroca/eloiroca/e84b6342935d3c1291cce550617d4e94d0c1c9c5/resources/img/linkedin.svg" style="vertical-align:center" /></a>
 <a href="[https://instagram.com/VishwaGauravIn](https://www.instagram.com/_eloiroca_)" target="_blank"><img alt="" src="https://raw.githubusercontent.com/eloiroca/eloiroca/1ff0fa489f1378a7a1bd2ba6a115eb2255494b4f/resources/img/instagram.svg" style="vertical-align:center" /></a></p>
 </div>
 
