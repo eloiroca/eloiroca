@@ -11,11 +11,11 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/eloiroca/eloiroca/cc885fb3d5730aaafb37dd3a6fdff4e1eaf6861f/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/eloiroca/eloiroca/blob/main/resources/img/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
